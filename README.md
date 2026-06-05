@@ -1,2 +1,1 @@
-# Onyx-
-Trading
+# onyx-app
